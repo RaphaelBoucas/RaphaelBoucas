@@ -10,9 +10,9 @@ No momento estou trabalhando no desenvolvimento de uma ferramenta de gestão fis
 
 Caso tenha interesse em trocar idéias e colaborar, não hesite em me contatar.
 
+###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBoucas&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only"/>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=RaphaelBoucas&hide=contribs,prs&theme=dark#gh-dark-mode-only"/>
 
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaelBoucas&hide=contribs,prs&theme=dark#gh-dark-mode-only"/>
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBoucas&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only"/>](url)
 
 -->
