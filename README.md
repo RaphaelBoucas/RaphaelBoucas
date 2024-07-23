@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Eu sou o Raphael Bouças. 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaphaelBoucas&hide=contribs,prs&theme=dark#gh-dark-mode-only"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelBoucas&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only"/>
+
 
 <!--
 **RaphaelBoucas/RaphaelBoucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
